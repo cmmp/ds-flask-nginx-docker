@@ -12,7 +12,7 @@ To build the docker image you can simply run `./build-docker-image.sh` from the 
 Running
 -------
 
-After building the docker image, to run it simply issue `docker run -p 80:80 --rm -it ds-flask-app`. That will create a disposable container running the API. Point your browser to http://localhost/apidocs to check out the Swagger UI. You can try out the predictions right from your browser.
+After building the docker image, to run it simply issue `./docker-start.sh`. That will create a disposable container running the API. Point your browser to http://localhost/apidocs to check out the Swagger UI. You can try out the predictions right from your browser.
 
 ![Screenshot](screenshot.png)
 
