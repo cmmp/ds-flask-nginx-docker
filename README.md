@@ -1,7 +1,7 @@
 Sample data science project using Flask, Flasgger, uwsgi and nginx
 ==================================================================
 
-This sample project contains a simple machine learning prediction API considering the traditional [Iris flower](https://en.wikipedia.org/wiki/Iris_flower_data_set) classification problem. It is a REST API implemented with [Flask](http://flask.pocoo.org/), documented with [Flasgger](https://github.com/rochacbruno/flasgger) and served with [uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/) via [Ngnix](https://www.nginx.com/) as a reverse proxy.
+This sample project contains a simple machine learning prediction API considering the traditional [Iris flower](https://en.wikipedia.org/wiki/Iris_flower_data_set) classification problem. It is a REST API implemented with [Flask](http://flask.pocoo.org/), documented with [Flasgger](https://github.com/rochacbruno/flasgger) and served with [uwsgi](https://uwsgi-docs.readthedocs.io/en/latest/) via [Ngnix](https://www.nginx.com/) as a reverse proxy for high performance.
 
 Build
 -----
